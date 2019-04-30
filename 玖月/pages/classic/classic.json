@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "v-header":"../../components/header/header",
+    "v-movie":"../../components/classic/movie/movie",
+    "v-swipe":"../../components/swipe/swipe",
+    "v-music":"../../components/classic/music/music"
+  }
+}

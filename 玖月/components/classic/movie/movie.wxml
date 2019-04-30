@@ -1,0 +1,6 @@
+<!--components/classic/movie/movie.wxml-->
+<view class="movie-container">
+        <image src="images/cover1@2x.png" class="cover" />
+        <image src="images/tag1@2x.png" class="tag" />
+        <view class="caption">人生不能像做菜，把所有的料准备好了才下锅。</view>
+    </view>

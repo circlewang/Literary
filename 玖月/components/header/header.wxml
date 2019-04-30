@@ -1,0 +1,12 @@
+<!--components/header/header.wxml-->
+<view class="left">
+            <view class="left-index">
+                <text class="plain">No.</text>
+                <text class="text-fb">17</text>
+                <text class="text-fb2"></text>
+            </view>
+            <view class="left-date">
+                <text class="text-fs">三月</text>
+                <text class="text-fs">2018</text>
+            </view>
+        </view>

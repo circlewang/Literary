@@ -1,0 +1,23 @@
+/* components/classic/movie/movie.wxss */
+.movie-container{
+    width: 100%;
+}
+.cover{
+    width: 100%;
+}
+.tag{
+    position: relative;
+    top:-45px;
+    left:15px;
+    width: 30px;
+    height:90px;
+}
+.caption{
+    position: relative;
+    top:-30px;
+    color: #333;
+    width:275px; 
+    margin:0 auto;
+    line-height: 1.5;
+    font-size:20px;
+}

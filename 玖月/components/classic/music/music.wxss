@@ -1,0 +1,44 @@
+/* components/classic/movie/movie.wxss */
+.music-container{
+    width: 100%;
+}
+.cover{
+    width: 100%;
+}
+.tag{
+    position: relative;
+    top:-45px;
+    left:15px;
+    width: 30px;
+    height:90px;
+}
+.caption{
+    position: relative;
+    top:-30px;
+    color: #333;
+    width:275px; 
+    margin:0 auto;
+    line-height: 1.5;
+    font-size:20px;
+}
+.img-container{
+    width: 100%;
+}
+.control{
+    width: 60px;
+    height:60px;
+    position: absolute;
+    top:33%;
+    left:50%;
+    transform: translate(-50%,-67%);
+    cursor: pointer;
+}
+.control-play{
+    width: 60px;
+    height:60px;
+    position: absolute;
+    top:32.5%;
+    left:50%;
+    transform: translate(-50%,-68%);
+    cursor: pointer;
+}

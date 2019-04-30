@@ -1,0 +1,4 @@
+1、获取data中的数据：this.data.variable
+2、改变data中的变量值：this.setData({
+                        variable:'aaa'
+                    })

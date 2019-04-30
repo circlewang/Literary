@@ -1,0 +1,31 @@
+/* components/header/header.wxss */
+.left{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.left-index{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.left-date{
+    display: flex;
+    flex-direction: column;
+}
+.plain{
+    font-size: 16px;
+}
+.text-fs{
+    font-size: 12px;
+}
+.text-fb{
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-fb2{
+    margin:0 7px;
+    height:22px;
+    border-left:1px solid black;
+}

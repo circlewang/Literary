@@ -1,0 +1,16 @@
+<!-- pages/classic.wxml -->
+
+    <view class="header">
+        <v-header></v-header>
+        <view class="right">
+            <image class="like" src="../../images/like@highlight.png" mode="aspectFit" />
+            <text class="like-num">1172</text>
+            <image class="share-container" src="../../images/share.png" mode="aspectFit" />
+        </view>
+    </view>
+    <view class="content">
+        <!-- <v-movie></v-movie> -->
+        <v-music></v-music>
+        <v-swipe></v-swipe>
+    </view>
+    
