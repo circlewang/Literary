@@ -1,0 +1,43 @@
+<!-- components/lists/lists.wxml -->
+<view class="book-lists">
+    <view class="book-li-container">
+        <view class="book-li">
+        <image class="book-img" src="images/list_01.png" lazy-load="true" />
+        <view class="book-container">
+            <text class="book-title">程序员的数学线性代数</text>
+            <text class="book-author">李银河</text>
+            <view class="book-statistics">
+                <text class="book-statistic">233喜欢 · 68短评</text>
+            </view>
+            
+        </view>
+    </view>
+    </view>
+    
+   <view class="book-li-container">
+        <view class="book-li">
+        <image class="book-img" src="images/list_02.png" lazy-load="true" />
+        <view class="book-container">
+            <text class="book-title">爱你就像爱生命</text>
+            <text class="book-author">李银河</text>
+            <view class="book-statistics">
+                <text class="book-statistic">233喜欢 · 68短评</text>
+            </view>
+            
+        </view>
+    </view>
+    </view>
+    <view class="book-li-container">
+        <view class="book-li">
+        <image class="book-img" src="images/list_03.png" lazy-load="true" />
+        <view class="book-container">
+            <text class="book-title">爱你就像爱生命</text>
+            <text class="book-author">李银河</text>
+            <view class="book-statistics">
+                <text class="book-statistic">233喜欢 · 68短评</text>
+            </view>
+            
+        </view>
+    </view>
+    </view>
+</view>

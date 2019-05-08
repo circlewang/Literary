@@ -1,0 +1,61 @@
+/* components/lists/lists.wxss */
+.book-lists{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.book-li-container{
+    width: 121px;
+    height: 186px;
+    flex-basis: auto;
+    margin-bottom: 30px;
+    flex: 0 0 50%;
+}
+.book-li{
+    width: 121px;
+    margin:0 auto;
+    flex-basis: auto;
+    box-shadow: 2px 3px 3px 0px #999;
+    border-bottom-right-radius: 10rpx;
+    border-bottom-left-radius: 10rpx;
+   
+}
+.book-img{
+    width: 121px;
+    height:112px ;
+}
+.book-container{
+    width: 121px;
+    flex-basis: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px 10px 9px 10px;
+    box-sizing: border-box;
+    background: #fff;
+    border-bottom-right-radius: 10rpx;
+    border-bottom-left-radius: 10rpx;
+    
+}
+
+.book-title{
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 20px;
+}
+.book-author{
+    font-size: 10px;
+}
+.book-statistics{
+    text-align: right;
+    align-self: flex-end;
+    justify-content: flex-end;
+}
+.book-statistic{
+    font-size: 10px;
+    line-height: 20px;
+}

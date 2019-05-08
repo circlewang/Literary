@@ -1,0 +1,12 @@
+<!--components/footer/footer.wxml-->
+<view class="book-footer">
+    <view class="footer-review">
+        <image src="images/edit.png" class="icon-edit" />
+        <text class="edit-title">留下你的短评～</text>
+    </view>
+    <view class="right">
+            <image class="like" src="../../images/like@highlight.png" mode="aspectFit" />
+            <text class="like-num">1172</text>
+            <image class="share-container" src="../../images/share.png" mode="aspectFit" />
+        </view>
+</view>

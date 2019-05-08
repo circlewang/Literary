@@ -1,0 +1,7 @@
+/* pages/like/like.wxss */
+.like-container{
+    background: #f2f2f2;
+    height: 100%;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}

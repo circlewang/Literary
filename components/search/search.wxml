@@ -1,0 +1,8 @@
+<!--components/search/search.wxml-->
+<view class="search">
+    <view class="search-input">
+        <image class="icon-search" src="images/icon-search.png" />
+        <text class="search-text">搜索图书名称</text>
+    </view>
+   
+</view>

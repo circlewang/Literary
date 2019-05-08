@@ -1,0 +1,6 @@
+<!--components/classic/swipe/swipe.wxml-->
+<view class="swipe-container">
+        <image class="icon-direct" src="images/left.png" />
+        <text class="title">李安《饮食男女》</text>
+        <image class="icon-direct" src="images/right.png" />
+</view>

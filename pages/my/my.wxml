@@ -1,0 +1,4 @@
+<!--pages/like/like.wxml-->
+<view class="like-container">
+    <like></like>
+</view>

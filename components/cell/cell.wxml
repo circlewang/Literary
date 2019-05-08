@@ -1,0 +1,25 @@
+<!-- components/cell/cell.wxml -->
+<view class="cell">
+    <view class="cell-book">
+        <view class="cell-img-container">
+            <image src="../lists/images/list_01.png" class="cell-img_01" />
+        </view>
+        <view class="cell-content">
+            <text class="cell-title">爱你就像爱生命</text>
+            <text class="cell-desc">李银河</text>
+        </view>
+    </view>
+    <image src="../../images/like@highlight.png" class="cell-img_02" />
+</view>
+<view class="cell">
+    <view class="cell-book">
+        <view class="cell-img-container">
+            <image src="../lists/images/list_01.png" class="cell-img_01" />
+        </view>
+        <view class="cell-content">
+            <text class="cell-title">爱你就像爱生命</text>
+            <text class="cell-desc">李银河</text>
+        </view>
+    </view>
+    <image src="../../images/like@highlight.png" class="cell-img_02" />
+</view>

@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/classic/classic",
+    "pages/my/my",
+    "pages/book/book",
+    
+    
+    "components/header/header",
+    "components/classic/movie/movie",
+    "components/swipe/swipe",
+    "components/classic/music/music",
+    "components/search/search",
+    "components/lists/lists",
+    "components/book/book",
+    "components/footer/footer",
+    "components/cell/cell"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "玖月",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/classic/classic",
+        "iconPath": "./images/classic.png",
+        "selectedIconPath": "./images/classic@highlight.png",
+        "text": "流行"
+      },
+      {
+        "pagePath": "pages/book/book",
+        "iconPath": "./images/book.png",
+        "selectedIconPath": "./images/book@highlight.png",
+        "text": "书单"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "./images/my.png",
+        "selectedIconPath": "./images/my@highlight.png",
+        "text": "喜欢"
+      }
+    ]
+  }
+}

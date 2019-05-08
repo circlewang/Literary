@@ -1,0 +1,48 @@
+<!-- components/book/book.wxml -->
+<view class="book-detail">
+    <image src="images/list_01.png" class="book-detail-img" />
+    <text class="book-detail-title">爱你就像爱生命</text>
+    <text class="book-detail-author">李银河</text>
+</view>
+<view class="book-review">
+    <text class="review-title">短评</text>
+    <view class="book-review-detail">
+        <text class="bubble">你好哇，李银河 <text class="bubble-zan">+758</text>
+        </text>
+        <text class="bubble">浪漫爱情 <text class="bubble-zan">+758</text>
+        </text>
+        <text class="bubble">你要是喜欢别人我会哭 <text class="bubble-zan">+758</text>
+        </text>
+    </view>
+</view>
+<view class="book-review">
+    <text class="review-title">内容简介</text>
+    <text class="content-detail-intro">
+        王小波书信均选自朝华出版社2004年4月第一版《爱你就像爱生命》，此书是王小波生前从未发表过的与李银河的“两地书”，也是迄今他们夫妇最完整和独立的一本书的信集。
+    </text>
+</view>
+<view class="book-review">
+    <text class="review-title">书本信息</text>
+    <view class="book-info-detail">
+        <view class="info">
+            <text class="info-left">出版社</text>
+            <text class="info-right">上海锦绣文章出版社</text>
+        </view>
+        <view class="info">
+            <text class="info-left">出版年</text>
+            <text class="info-right">2008-5</text>
+        </view>
+        <view class="info">
+            <text class="info-left">页数</text>
+            <text class="info-right">222</text>
+        </view>
+        <view class="info">
+            <text class="info-left">定价</text>
+            <text class="info-right">¥18.00元</text>
+        </view>
+        <view class="info">
+            <text class="info-left">精装</text>
+            <text class="info-right">平装</text>
+        </view>
+    </view>
+</view>

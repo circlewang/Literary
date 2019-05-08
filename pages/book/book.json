@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "search":"../../components/search/search",
+    "lists":"../../components/lists/lists",
+    "book-introduce":"../../components/book/book",
+    "detail-footer":"../../components/footer/footer"
+  }
+}

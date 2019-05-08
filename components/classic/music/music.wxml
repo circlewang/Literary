@@ -1,0 +1,14 @@
+<!--components/classic/movie/movie.wxml-->
+<view class="music-container">
+    <view class="img-container">
+        <image wx:if="{{isPlay}}" src="{{pause}}" bindtap="hindlePlay" class="{{isPlay?'control':'control-play'}}" />
+        <image wx:else src="{{play}}" bindtap="hindlePause" class="{{isPlay?'control':'control-play'}}" />
+        <view class="cover">
+            <image src="images/music1@2x.png" class="cover-img {{isPlay?'':'animate-img'}}" />
+        </view>
+        
+    </view>
+   
+        <image src="images/tag.png" class="tag" />
+        <view class="caption">谁念过 千字文章 秋收冬已藏</view>
+    </view>

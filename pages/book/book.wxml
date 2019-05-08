@@ -1,0 +1,10 @@
+<!--pages/lists.wxml-->
+<view >
+    <search></search>
+     <view class="book">
+        <!-- <image class="title-img" src="../../images/book-featured.png"/> -->
+        <!-- <lists></lists> -->
+        <book-introduce></book-introduce>
+    </view>
+</view>
+<detail-footer></detail-footer>
